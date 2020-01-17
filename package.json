@@ -1,0 +1,24 @@
+{
+  "name": "smean-backend",
+  "version": "1.0.0",
+  "description": "SMEAN Backend Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemone server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shynnhuy/smean-backend.git"
+  },
+  "keywords": [
+    "smean",
+    "smean-server",
+    "smean-backend"
+  ],
+  "author": "NnyhS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shynnhuy/smean-backend/issues"
+  },
+  "homepage": "https://github.com/shynnhuy/smean-backend#readme"
+}
